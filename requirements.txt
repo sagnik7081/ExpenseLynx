@@ -1,0 +1,18 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Werkzeug
+python-dotenv
+matplotlib
+pandas
+
+# File Upload
+openpyxl  # In case Excel files are supported later
+
+# LangChain + Groq AI Assistant
+langchain
+langchain-groq
+tiktoken  
+requests
+aiohttp
+

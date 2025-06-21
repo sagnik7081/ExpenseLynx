@@ -28,9 +28,70 @@
 
 <div align="center">
 
-**Frontend:** HTML5 • CSS3 • Bootstrap • Chart.js  
-**Backend:** Flask • SQLite • Pandas  
-**AI:** LangChain • Groq LLM  
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60">
+<br><b>HTML5</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60">
+<br><b>CSS3</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60">
+<br><b>Python</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="60" height="60">
+<br><b>Flask</b>
+</td>
+<td align="center" width="20%">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="60" height="60">
+<br><b>SQLite</b>
+</td>
+</tr>
+</table>
+
+### 🎯 **Core Technologies**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🎨 Frontend**
+- HTML5 & CSS3
+- Bootstrap Framework
+- Chart.js Visualizations
+- Responsive Design
+
+</td>
+<td width="33%" align="center">
+
+**⚙️ Backend**
+- Flask Web Framework
+- SQLite Database
+- Pandas Data Processing
+- RESTful API Design
+
+</td>
+<td width="33%" align="center">
+
+**🤖 AI & Analytics**
+- LangChain Integration
+- Groq LLM API
+- Smart Data Insights
+- Natural Language Processing
+
+</td>
+</tr>
+</table>
+
+<p>
+<img src="https://img.shields.io/badge/Frontend-HTML5%20•%20CSS3%20•%20Bootstrap-orange?style=flat-square&logo=html5">
+<img src="https://img.shields.io/badge/Backend-Flask%20•%20SQLite%20•%20Pandas-blue?style=flat-square&logo=flask">
+<img src="https://img.shields.io/badge/AI-LangChain%20•%20Groq-purple?style=flat-square&logo=openai">
+</p>
 
 </div>
 
@@ -55,19 +116,31 @@ Visit `http://localhost:5000` 🎉
 
 ---
 
-## 🤝 Contributors
+## 👥 Meet Our Team
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 <a href="https://github.com/sagnik7081">
-<img src="https://avatars.githubusercontent.com/u/108155574?v=4" width="60px;" alt="Sagnik"/><br />
-<b>Sagnik</b>
+<img src="https://avatars.githubusercontent.com/u/108155574?v=4" width="120px;" alt="Sagnik" style="border-radius: 50%;"/><br />
+<sub><b>Sagnik</b></sub><br />
 </a>
-&nbsp;&nbsp;&nbsp;
+</td>
+<td align="center" width="50%">
 <a href="https://github.com/Sadashrayr">
-<img src="https://avatars.githubusercontent.com/u/121634032?v=4" width="60px;" alt="Sadashray"/><br />
-<b>Sadashray</b>
+<img src="https://avatars.githubusercontent.com/u/121634032?v=4" width="120px;" alt="Sadashray" style="border-radius: 50%;"/><br />
+<sub><b>Sadashray</b></sub><br />
 </a>
+</td>
+</tr>
+</table>
+
+<p>
+<img src="https://img.shields.io/badge/Team-2%20Developers-blue?style=flat-square&logo=github">
+<img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square&logo=git">
+</p>
 
 </div>
 

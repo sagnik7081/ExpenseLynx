@@ -101,7 +101,7 @@
 
 ```bash
 # Clone & Install
-git clone https://github.com/yourusername/ExpenseLynx.git
+git clone https://github.com/sagnik7081/ExpenseLynx
 cd ExpenseLynx
 pip install -r requirements.txt
 
